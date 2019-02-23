@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Generator from './Components/Generator/Generator';
+import 'tachyons';
 import './App.css';
 
 
